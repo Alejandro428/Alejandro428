@@ -22,6 +22,7 @@ Mi formación actual es en IA y datos (Python, Big Data, sistemas de informació
 - **[AleBalance](https://github.com/Alejandro428/alebalance)** — App Android para el control de finanzas personales con presupuestos mensuales. *Kotlin + SQLite + Material Design*.
 
 ### IA y datos (curso de especialización)
+- **[SecretaríaBot](https://github.com/Alejandro428/secretaria-bot)** — Chatbot conversacional para la secretaría del CIPFP Mislata construido sobre un agente de **AWS Bedrock**, con frontend de chat en React. Resuelve dudas sobre matrícula, becas, certificados, horarios y oferta formativa. *AWS Bedrock + API Gateway + React*.
 - **[Sistema de Triajes](https://github.com/Alejandro428/proyecto_sistema_de_triajes)** — Pipeline para sistema de triaje con orquestación de DAGs, servicios contenedorizados y modelos de IA. *Python + Docker*.
 - **[Detección y Privacidad de Rostros](https://github.com/Alejandro428/proyecto-rostros)** — Sistema de detección de caras con red neuronal entrenada, mecanismos de privacidad y métricas de evaluación. *Jupyter Notebook + Python + Docker*.
 
