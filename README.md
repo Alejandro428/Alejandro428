@@ -23,6 +23,7 @@ Mi formación actual es en IA y datos (Python, Big Data, sistemas de informació
 
 ### IA y datos (curso de especialización)
 - **[SecretaríaBot](https://github.com/Alejandro428/secretaria-bot)** — Chatbot conversacional para la secretaría del CIPFP Mislata construido sobre un agente de **AWS Bedrock**, con frontend de chat en React. Resuelve dudas sobre matrícula, becas, certificados, horarios y oferta formativa. *AWS Bedrock + API Gateway + React*.
+- **[Detección de Derroche Energético](https://github.com/Alejandro428/deteccion-derroche-energetico)** — Sistema IoT + ML para detectar derroche energético en aula a partir de sensores de Home Assistant. Pipeline Bronze/Silver con pandas, red neuronal de predicción, API de inferencia y dashboards en Grafana. Proyecto en equipo. *Python + TensorFlow + PostgreSQL + Docker + Grafana*.
 - **[Sistema de Triajes](https://github.com/Alejandro428/proyecto_sistema_de_triajes)** — Pipeline para sistema de triaje con orquestación de DAGs, servicios contenedorizados y modelos de IA. *Python + Docker*.
 - **[Detección y Privacidad de Rostros](https://github.com/Alejandro428/proyecto-rostros)** — Sistema de detección de caras con red neuronal entrenada, mecanismos de privacidad y métricas de evaluación. *Jupyter Notebook + Python + Docker*.
 
