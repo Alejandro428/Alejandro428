@@ -2,6 +2,11 @@
 
 Desarrollador web junior fullstack en Valencia. Estoy formándome en **Inteligencia Artificial y Big Data** (CIPFP Mislata, en curso) y buscando mi primera oportunidad estable como desarrollador.
 
+## Mi CV
+
+- **[CV completo (2 páginas)](./CV_Alejandro.pdf)** — experiencia, stack, portfolio de proyectos y formación.
+- **[CV resumen (1 página)](./CV_Alejandro_corto.pdf)** — versión condensada con portfolio compacto.
+
 ## En qué ando ahora
 
 Mi formación actual es en IA y datos (Python, Big Data, sistemas de información), pero mi objetivo profesional es el **desarrollo web**: ahí es donde tengo experiencia y donde quiero crecer.
