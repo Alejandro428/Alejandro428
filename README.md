@@ -4,8 +4,7 @@ Desarrollador web junior fullstack en Valencia. Estoy formándome en **Inteligen
 
 ## Mi CV
 
-- **[CV completo (2 páginas)](./CV_Alejandro.pdf)** — experiencia, stack, portfolio de proyectos y formación.
-- **[CV resumen (1 página)](./CV_Alejandro_corto.pdf)** — versión condensada con portfolio compacto.
+- **[Descargar CV (1 página, PDF)](./CV_Alejandro.pdf)** — experiencia, stack, portfolio de proyectos y formación.
 
 ## En qué ando ahora
 
